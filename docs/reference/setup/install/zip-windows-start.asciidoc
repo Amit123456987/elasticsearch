@@ -32,7 +32,7 @@ name>.log` file within the <<path-settings,logs directory>>. {es} logs some
 information while it is starting, but after it has finished initializing it
 will continue to run in the foreground and won't log anything further until
 something happens that is worth recording. While {es} is running you can
-interact with it through its HTTP interface which is on port `9200` by default.
+interact with it through its HTTPS interface which is on port `9200` by default.
 
 To stop {es}, press `Ctrl-C`.
 
